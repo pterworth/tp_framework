@@ -1,31 +1,30 @@
-# Pascal Terworth's Framework
+# Pascal Terworth's custom framework
 
-Das Framework ist ein MVC-orientiertes offenes System für zukünftige Projekte
+This is a custom MVC-oriented framework for exercise purposes..
 
-  - Eigene Datenbankanbindung
-  - Custom Features so wie:
-    -  Registrieren
-    -  Einloggen
-    -  Posts sehen
-    -  Posts erstellen
-    -  Posts bearbeiten
-    -  etc.
+  Features:
+  - Blog-Stylized-Posts
+  - Registration / Login
+  - Basic Routing
+  - and more..  
+  
 ----
-# New Features!
+# New Features:
 
   - tbd
+
 ----
-### LOG
+### CHANGE-LOG
 
-Alle neuen Änderungen werden hier aufgelistet:
+Change X/Y - D/M/Y:
 
-* [Beispiel] - Eine super tolle Beschreibung!
+* [Example] - Details..!
 
 ----
 ### Todo
 
  - Finish the core features of the framework
- - tbd
+ ...
     
 ----
 ### License
